@@ -3,6 +3,8 @@
 The issue:
 Rule sets inside of media queries are removed when using `outputStyle: 'compressed'`.
 
+https://github.com/sass/libsass/issues/566
+
 Using `node-sass 1.0.1`
 
 #### node-sass setup:
